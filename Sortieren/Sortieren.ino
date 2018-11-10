@@ -30,7 +30,7 @@ void loop() {
 
 	for (int x = 0; x < (sizeof(arr) / sizeof(int)); x++) { //Ausgabe des Arrays
 		Serial.println();
-		Serial.print("NACHER{ ");
+		Serial.print("NACHER [");
 		Serial.print(x);
 		Serial.print("] -> ");
 		Serial.print(arr[x]);
