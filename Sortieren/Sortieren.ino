@@ -45,7 +45,7 @@ void randomArray() {
 }
 
 void sortArray() {
-	for (int x = 0; x < (sizeof(arr) / sizeof(int)); x++) {
+	for (int x = 0; x < (sizeof(arr) / sizeof(int) - 1); x++) {
 		for (int y = 0; y < (sizeof(arr) / sizeof(int)); y++) {
 			int arr1 = arr[y];
 			int arr2 = arr[y + 1];
