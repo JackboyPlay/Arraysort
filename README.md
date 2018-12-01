@@ -4,4 +4,4 @@ Hierzu wird auf die Bubblesort-Methode gesetzt.
 
 ## Funktionsweise der Bubblesort-Methode
 
-![Alt Text](https://de.wikipedia.org/wiki/Bubblesort#/media/File:Bubble-sort-example-300px.gif)
+![Alt Text](https://media.giphy.com/media/fdFQlt5A45jyw/giphy.gif)
